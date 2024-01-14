@@ -1,1 +1,1 @@
-# PizzaSalesDataProject
+# Pizza Sales Data Project
