@@ -1,4 +1,4 @@
-# Pizza Sales Data Project
+# Pizza Sales Data Overview
 ## PROBLEM STATEMENT
 ### KPI’s REQUIREMENT
 To analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
