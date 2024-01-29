@@ -29,5 +29,5 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Rev
 ## Data File
 https://github.com/thikyi/PizzaSalesDataProject/blob/main/pizza_sales.csv
 ## Pizza Sales Report Dashboard
-[![Home](https://github.com/thikyi/CovidDataProject/blob/main/Covid%20Infection%20Data%20Trend.png)]
+[![Home](https://github.com/thikyi/CovidDataProject/blob/main/Covid%20Infection%20Data%20Trend.png)]([https://public.tableau.com/app/profile/thant.thiri.kyi/viz/PizzaSalesData_17052039959380/Home])
 [![Best/Worst Selling](https://github.com/thikyi/PizzaSalesDataProject/blob/main/Best_Worst%20Sellers.png)]
