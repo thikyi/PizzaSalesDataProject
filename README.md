@@ -25,9 +25,11 @@ Create a bar chart highlighting the top 5 best-selling pizzas based on the Reven
 Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity, Total Orders. This chart will enable us to identify underperforming or less popular pizza options.
 ## Tools Used
 1. Azure Data Studio (MSSQL)
-2. [Tableau Pulic]([https://public.tableau.com/app/profile/thant.thiri.kyi/viz/PizzaSalesData_17052039959380/Home])
+2.  Tableau Pulic
+    https://public.tableau.com/app/profile/thant.thiri.kyi/viz/PizzaSalesData_17052039959380/Home
+    
 ## Data File
 https://github.com/thikyi/PizzaSalesDataProject/blob/main/pizza_sales.csv
 ## Pizza Sales Report Dashboard
-[![Home](https://github.com/thikyi/CovidDataProject/blob/main/Covid%20Infection%20Data%20Trend.png)]([https://public.tableau.com/app/profile/thant.thiri.kyi/viz/PizzaSalesData_17052039959380/Home])
-[![Best/Worst Selling](https://github.com/thikyi/PizzaSalesDataProject/blob/main/Best_Worst%20Sellers.png)]
+[![Home](https://github.com/thikyi/PizzaSalesDataProject/blob/main/Home.png)]([https://public.tableau.com/app/profile/thant.thiri.kyi/viz/PizzaSalesData_17052039959380/Home])
+[![Best & Worst Selling](https://github.com/thikyi/PizzaSalesDataProject/blob/main/Best_Worst%20Sellers.png)]([https://public.tableau.com/app/profile/thant.thiri.kyi/viz/PizzaSalesData_17052039959380/Home])
